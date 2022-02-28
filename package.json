@@ -2,7 +2,7 @@
   "name": "parsebody",
   "version": "1.0.0",
   "description": "Paquete para parsear el body del request dependiendo del tipo de respuesta",
-  "main": "parsebody.js",
+  "main": "index.js",
   "author": "Benito Gonzales",
   "license": "ISC"
 }
